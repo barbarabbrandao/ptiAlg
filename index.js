@@ -10,7 +10,7 @@ for(i=0; novo == 's'; i++){
   }else if( comb <0.7){
     alert ("Vale a pena abastecer com álcool.");
   }else{
-    alert ("Tanto faz abastecer com alcóol ou gasolina.");
+    alert ("Tanto faz abastecer com álcool ou gasolina.");
   }
   novo = prompt("Deseja realizar novo calculo? s/n");
   console.clear();
